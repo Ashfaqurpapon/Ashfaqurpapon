@@ -1,31 +1,58 @@
 <h1 align="center">Hi 👋, I'm Ashfaqur Rahman Papon</h1>
-<h3 align="center">I’m a passionate backend-focused JavaScript developer and competitive programmer with a strong foundation in designing and building scalable, distributed systems. I thrive on solving complex problems, writing clean and efficient code, and continuously learning to stay ahead in the ever-evolving tech landscape.
 
-My core expertise lies in developing microservices-based backend architectures using NestJS, Kafka, Redis, and PostgreSQL. I have hands-on experience in containerizing applications with Docker, including image creation, container orchestration, and environment configuration.
+<h3 align="center">Backend-Focused JavaScript Developer | Microservices Enthusiast | Competitive Programmer</h3>
 
-While my primary focus is backend development, I'm also familiar with frontend integration in MERN stack environments, allowing me to build and maintain full-stack applications when needed.
-
-I'm driven by the goal of creating impactful, user-centric software solutions that are innovative, maintainable, and built for scale.</h3>
-
-- 🌱 I’m currently learning **Docker**
-
-- 👨‍💻 All of my projects are available at [https://papon-protfolio.vercel.app/](https://papon-protfolio.vercel.app/)
-
-- 💬 Ask me about **Microservices,MERN**
-
-- 📫 How to reach me **ashfaqurrahman377@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ashfaqur-rahman-papon/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ashfaqur-rahman-papon/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/ar_papon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/ar_papon" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/arp75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/arp75" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/arpapon/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/arpapon/" height="30" width="40" /></a>
+<p align="center">
+I’m a passionate backend-focused developer with a strong foundation in designing and building scalable, distributed systems. I thrive on solving complex problems, writing clean and efficient code, and continuously learning to stay ahead in the ever-evolving tech landscape.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+My core expertise lies in developing microservices-based backend architectures using <b>NestJS</b>, <b>Kafka</b>, <b>Redis</b>, and <b>PostgreSQL</b>. I have hands-on experience in containerizing applications with <b>Docker</b>, including image creation, container orchestration, and environment configuration.
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashfaqurpapon&show_icons=true&locale=en&layout=compact" alt="ashfaqurpapon" /></p>
+<p align="center">
+While my primary focus is backend development, I'm also familiar with frontend integration in <b>MERN stack</b> environments, allowing me to build and maintain full-stack applications when needed. My goal is to create impactful, user-centric software solutions that are both innovative and built for scale.
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashfaqurpapon&show_icons=true&locale=en" alt="ashfaqurpapon" /></p>
+---
+
+### 🌱 Currently Learning
+
+- Advanced Docker, Kubernetes
+- Kafka stream processing patterns
+
+---
+
+### 🛠️ Tech Stack
+
+**Backend:** NestJS · Node.js · Express · Kafka · Redis · PostgreSQL · MongoDB  
+**Frontend:** React.js · Tailwind CSS · HTML · CSS  
+**DevOps:** Docker · Git · GitHub · Nginx  
+**Other Tools:** Postman · Figma · TypeScript · JavaScript · C++
+
+---
+
+### 📫 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/ashfaqur-rahman-papon/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/></a>
+  <a href="https://www.codechef.com/users/ar_papon" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" width="40"/></a>
+  <a href="https://codeforces.com/profile/arp75" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" width="40"/></a>
+  <a href="https://leetcode.com/u/arpapon/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/></a>
+</p>
+
+---
+
+### 📂 My Portfolio
+🔗 [https://papon-protfolio.vercel.app](https://papon-protfolio.vercel.app)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashfaqurpapon&show_icons=true&locale=en" alt="ashfaqurpapon" />
+</p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashfaqurpapon&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
