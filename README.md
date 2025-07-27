@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ashfaqur Rahman Papon</h1>
-<h3 align="center">I’m a passionate backend-focused JavaScript developer and competitive programmer. I thrive on solving complex problems, building clean and efficient code, and continuously learning to stay ahead in the ever-evolving tech landscape. I'm also familiar with frontend integration in MERN environments. My goal is to create impactful software solutions that are both innovative and user-centric</h3>
+<h3 align="center">I’m a passionate backend-focused JavaScript developer and competitive programmer with a strong foundation in designing and building scalable, distributed systems. I thrive on solving complex problems, writing clean and efficient code, and continuously learning to stay ahead in the ever-evolving tech landscape.
+
+My core expertise lies in developing microservices-based backend architectures using NestJS, Kafka, Redis, and PostgreSQL. I have hands-on experience in containerizing applications with Docker, including image creation, container orchestration, and environment configuration.
+
+While my primary focus is backend development, I'm also familiar with frontend integration in MERN stack environments, allowing me to build and maintain full-stack applications when needed.
+
+I'm driven by the goal of creating impactful, user-centric software solutions that are innovative, maintainable, and built for scale.</h3>
 
 - 🌱 I’m currently learning **Docker**
 
