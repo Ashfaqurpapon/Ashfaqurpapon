@@ -18,7 +18,7 @@ While my primary focus is backend development, I'm also familiar with frontend i
 
 ### 🌱 Currently Learning
 
-- Advanced Docker, Kubernetes
+- Advanced Docker
 - Kafka stream processing patterns
 
 ---
@@ -27,8 +27,8 @@ While my primary focus is backend development, I'm also familiar with frontend i
 
 **Backend:** NestJS · Node.js · Express · Kafka · Redis · PostgreSQL · MongoDB  
 **Frontend:** React.js · Tailwind CSS · HTML · CSS  
-**DevOps:** Docker · Git · GitHub · Nginx  
-**Other Tools:** Postman · Figma · TypeScript · JavaScript · C++
+**DevOps:** Docker · Git · GitHub 
+**Other Tools:** Postman  · TypeScript · JavaScript · C++
 
 ---
 
